@@ -9,7 +9,7 @@ This project does exactly what you read above.
 
 - Checks current ETH gas fee :chart:
 - Does nothing if the prices are too high (like what you'd do otherwise :cry:)
-- Or if there's surprsingly a rare scenario where the gas fees are pretty cheap :money_mouth_face:, you'll get a phone call pushing you to spend the last few dollars left in you wallet :pouch: 
+- Or if there's surprsingly a rare scenario where the gas fees are pretty cheap :money_mouth_face:, you'll get a phone call pushing you to spend the last few dollars left in your wallet :pouch: 
 
 ## Tech
 - We're using [Google Firebase functions](https://firebase.google.com/docs/functions) to run a Cron every 'X' period
