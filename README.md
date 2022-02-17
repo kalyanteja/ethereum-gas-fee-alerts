@@ -1,6 +1,6 @@
 # What
 
-Do you know an average millenial spends 3.5 hours a day tracking Ethereum gas fees trying to find the best price? :astonished: (Okay, that's totally made up).
+Do you know an average millennial spends 3.5 hours a day tracking Ethereum gas fees trying to find the best price? :astonished: (Okay, that's totally made up).
 
 But yeah that's how I feel like I've spent a lifetime tracking the gas fees. What if you can write a code that does it for you and rings you on your phone if there's an attractive price on offer?
 
